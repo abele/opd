@@ -1,7 +1,10 @@
 Orthogonal Perspective Demo
 ===========================
 Demonstrates Orthographic projection from variable observer point.
-Serves as practical part of bachelor's thesis at `Riga Technical University`.
+
+At the time it was created it served as a practical part of bachelor's thesis at
+`Riga Technical University`. *Now* author is intended to use it as sandbox for
+testing in C++ as it is poorly written code.
 
 :Author: Jānis Ābele <janis.abele@gmail.com>
 
