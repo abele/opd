@@ -2,5 +2,9 @@
 
 set -e
 
-
-tests/tests "$1"
+make
+if [ -z "$1" ]; then
+    tests/tests
+else
+    tests/tests $1
+fi
